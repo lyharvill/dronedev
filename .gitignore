@@ -4,3 +4,5 @@ crazyflie-console-cpp/crazyflie-console-cpp.vcxproj.user
 /crazyflie-console-cpp/x64
 
 
+*.lib
+*.pdb
