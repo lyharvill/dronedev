@@ -1,0 +1,1 @@
+Place Release version of libusb-1.0.lib and libusb-1.0.pdb here.
